@@ -1,0 +1,1 @@
+This project is a rental platform website developed with a Spring Boot architecture that adopts a front-end and back-end separation model. It provides a comprehensive backend management system for administrators to oversee listings, users, while offering an intuitive and interactive frontend interface for end-users to browse properties, manage rentals.
